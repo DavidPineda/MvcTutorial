@@ -13,11 +13,10 @@ body
 	padding: 0px 6%;
 }
 
-/*#container
+#container
 {
 	float: left;
 }
-*/
 
 #header
 {
@@ -35,27 +34,24 @@ body
 	padding: 45px 0px 5px 0px;
 }
 
-/*#promotion
+#promotion
 {
 	height: 300px; 
 	width: 700px; 
 	background: url(/content/Images/home-showcase.png) no-repeat;
 }
-*/
 
 ul li a
 {
 	font-size: 16px;
 }
 
-/*
 #main
 {
 	overflow: hidden;
 	padding: 0 0 15px 10px;
 	float: left;
 }
-*/
 
 ul
 {
@@ -64,7 +60,6 @@ ul
 	font-size: 14px;
 }
 
-/*
 ul#album-list
 {
 	list-style: none;
@@ -129,7 +124,6 @@ ul#album-list li a span
 	border-bottom: 1px dotted #8A8575;
 	font-family: Constantia, Georgia, serif;
 }
-*/
 /******************** Top Navigation ************************/
 ul#navlist
 {
@@ -162,13 +156,11 @@ ul#navlist li a:hover
 }
 
 /********************* End top navigation ***************************/
-/*
 p
 {
 	margin-bottom: 15px;
 	margin-top: 0px;
 }
-*/
 
 h2
 {
@@ -183,12 +175,11 @@ h2, h3
 	font-weight: bold;
 }
 
-/*
 h3
 {
 	color: #9B9993;
 }
-*/
+
 #header h1 a, h3 em
 {
 	color: #5E5B54;
@@ -216,7 +207,6 @@ a:active
 }
 
 /***************************** sidebar navigation ****************************/
-/*
 #categories
 {
 	font-family: Constantia, Georgia, serif;
@@ -249,9 +239,8 @@ p em
 {
 	color: #9b9993;
 }
-*/
+
 /* Form styles */
-/*
 legend
 {
 	padding: 10px;
@@ -276,9 +265,8 @@ input[type=text], input[type=password], select
 	border: 1px solid #8A8575;
 	width: 300px;
 }
-*/
+
 /* Styles for validation helpers */
-/*
 .field-validation-error {
     color: #ff0000;
 }
@@ -300,9 +288,8 @@ input[type=text], input[type=password], select
 .validation-summary-valid {
     display: none;
 }
-*/
+
 /* Tables */
-/*
 table
 {
 	border: 1px solid #000;
@@ -335,4 +322,3 @@ tr:hover
 {
 	background-color: #fff;
 }
-*/
