@@ -34,3 +34,25 @@ C:\Users\David Pineda\Documents\Visual Studio 2013\Projects\MvcMusicStore\MvcMus
 C:\Users\David Pineda\Documents\Visual Studio 2013\Projects\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
 C:\Users\David Pineda\Documents\Visual Studio 2013\Projects\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
 C:\Users\David Pineda\Documents\Visual Studio 2013\Projects\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\MvcTutorial\MvcMusicStore\bin\MvcMusicStore.dll.config
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\MvcTutorial\MvcMusicStore\bin\MvcMusicStore.dll
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\MvcTutorial\MvcMusicStore\bin\MvcMusicStore.pdb
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\MvcTutorial\MvcMusicStore\bin\EntityFramework.dll
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\MvcTutorial\MvcMusicStore\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\MvcTutorial\MvcMusicStore\bin\System.Web.Helpers.dll
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\MvcTutorial\MvcMusicStore\bin\System.Web.Mvc.dll
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\MvcTutorial\MvcMusicStore\bin\System.Web.Razor.dll
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\MvcTutorial\MvcMusicStore\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\MvcTutorial\MvcMusicStore\bin\System.Web.Webpages.dll
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\MvcTutorial\MvcMusicStore\bin\System.Web.Webpages.Razor.dll
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\MvcTutorial\MvcMusicStore\bin\EntityFramework.xml
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\MvcTutorial\MvcMusicStore\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\MvcTutorial\MvcMusicStore\bin\System.Web.Razor.xml
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\MvcTutorial\MvcMusicStore\bin\System.Web.Webpages.xml
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\MvcTutorial\MvcMusicStore\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\MvcTutorial\MvcMusicStore\bin\System.Web.Webpages.Razor.xml
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\MvcTutorial\MvcMusicStore\bin\System.Web.Helpers.xml
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\MvcTutorial\MvcMusicStore\bin\System.Web.Mvc.xml
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\MvcTutorial\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\MvcTutorial\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\MvcTutorial\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
