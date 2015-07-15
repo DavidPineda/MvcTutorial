@@ -56,3 +56,25 @@ C:\Users\Administrador\Documents\Visual Studio 2013\Projects\MvcTutorial\MvcMusi
 C:\Users\Administrador\Documents\Visual Studio 2013\Projects\MvcTutorial\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
 C:\Users\Administrador\Documents\Visual Studio 2013\Projects\MvcTutorial\MvcMusicStore\obj\Debug\MvcMusicStore.dll
 C:\Users\Administrador\Documents\Visual Studio 2013\Projects\MvcTutorial\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+C:\Users\David Pineda\Documents\Visual Studio 2013\Projects\MvcTutorial\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+C:\Users\David Pineda\Documents\Visual Studio 2013\Projects\MvcTutorial\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+C:\Users\David Pineda\Documents\Visual Studio 2013\Projects\MvcTutorial\MvcMusicStore\bin\MvcMusicStore.dll.config
+C:\Users\David Pineda\Documents\Visual Studio 2013\Projects\MvcTutorial\MvcMusicStore\bin\MvcMusicStore.dll
+C:\Users\David Pineda\Documents\Visual Studio 2013\Projects\MvcTutorial\MvcMusicStore\bin\MvcMusicStore.pdb
+C:\Users\David Pineda\Documents\Visual Studio 2013\Projects\MvcTutorial\MvcMusicStore\bin\EntityFramework.dll
+C:\Users\David Pineda\Documents\Visual Studio 2013\Projects\MvcTutorial\MvcMusicStore\bin\EntityFramework.SqlServer.dll
+C:\Users\David Pineda\Documents\Visual Studio 2013\Projects\MvcTutorial\MvcMusicStore\bin\System.Web.Helpers.dll
+C:\Users\David Pineda\Documents\Visual Studio 2013\Projects\MvcTutorial\MvcMusicStore\bin\System.Web.Mvc.dll
+C:\Users\David Pineda\Documents\Visual Studio 2013\Projects\MvcTutorial\MvcMusicStore\bin\System.Web.Razor.dll
+C:\Users\David Pineda\Documents\Visual Studio 2013\Projects\MvcTutorial\MvcMusicStore\bin\System.Web.Webpages.Deployment.dll
+C:\Users\David Pineda\Documents\Visual Studio 2013\Projects\MvcTutorial\MvcMusicStore\bin\System.Web.Webpages.dll
+C:\Users\David Pineda\Documents\Visual Studio 2013\Projects\MvcTutorial\MvcMusicStore\bin\System.Web.Webpages.Razor.dll
+C:\Users\David Pineda\Documents\Visual Studio 2013\Projects\MvcTutorial\MvcMusicStore\bin\EntityFramework.xml
+C:\Users\David Pineda\Documents\Visual Studio 2013\Projects\MvcTutorial\MvcMusicStore\bin\EntityFramework.SqlServer.xml
+C:\Users\David Pineda\Documents\Visual Studio 2013\Projects\MvcTutorial\MvcMusicStore\bin\System.Web.Razor.xml
+C:\Users\David Pineda\Documents\Visual Studio 2013\Projects\MvcTutorial\MvcMusicStore\bin\System.Web.Webpages.xml
+C:\Users\David Pineda\Documents\Visual Studio 2013\Projects\MvcTutorial\MvcMusicStore\bin\System.Web.Webpages.Deployment.xml
+C:\Users\David Pineda\Documents\Visual Studio 2013\Projects\MvcTutorial\MvcMusicStore\bin\System.Web.Webpages.Razor.xml
+C:\Users\David Pineda\Documents\Visual Studio 2013\Projects\MvcTutorial\MvcMusicStore\bin\System.Web.Helpers.xml
+C:\Users\David Pineda\Documents\Visual Studio 2013\Projects\MvcTutorial\MvcMusicStore\bin\System.Web.Mvc.xml
+C:\Users\David Pineda\Documents\Visual Studio 2013\Projects\MvcTutorial\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
