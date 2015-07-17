@@ -28,7 +28,7 @@ namespace MvcMusicStore.Controllers
             return View(viewModel);
         }
 
-        // GET: /Store/AddToCart/5
+        // GET: /ShoppingCart/AddToCart/5
         public ActionResult AddToCart(int id)
         {
 

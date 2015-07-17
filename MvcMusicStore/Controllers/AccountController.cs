@@ -38,7 +38,7 @@ namespace MvcMusicStore.Controllers
                     }
                     else
                     {
-                        return RedirectToAction("Index", "Home");
+                        return RedirectToAction("Index", "Store");
                     }
                 }
                 else
