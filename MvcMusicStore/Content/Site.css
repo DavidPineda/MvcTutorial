@@ -49,8 +49,28 @@ ul li a
 #main
 {
 	overflow: hidden;
-	padding: 0 0 15px 10px;
-	float: left;
+	/*padding: 0 0 15px 10px;
+	float: left;*/
+    padding: 5px 5px;
+}
+
+/******************************Aside Izquierdo de Categorias *****************/
+#leftSide
+{
+    float: left;
+    width: 10%;    
+    height: auto;
+}
+
+/******************************** Sona Central ********************************/
+#centerSide
+{
+    display: inline;
+    float: right;
+    width: 88%;
+    height: auto;
+    margin-left: 5px;
+    /*border-left: 5px dashed #fff;*/
 }
 
 ul
@@ -82,6 +102,12 @@ ul#album-list li a, ul#album-list li .button
 }
 
 ul#album-list li a span
+{
+	color: #9b9993;
+	text-decoration: underline;
+}
+
+ul#album-list li a figure figcaption
 {
 	color: #9b9993;
 	text-decoration: underline;

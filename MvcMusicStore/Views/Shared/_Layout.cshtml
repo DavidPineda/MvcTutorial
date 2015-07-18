@@ -22,10 +22,15 @@
         </nav>
     </header>
 
-    @{Html.RenderAction("GenreMenu", "Store");}
+    <!--@{Html.RenderAction("GenreMenu", "Store");}-->
 
     <div id="main">
-        @RenderBody()
+        <aside id="leftSide">
+            @{Html.RenderAction("GenreMenu", "Store");}
+        </aside>
+        <section id="centerSide">
+            @RenderBody()
+        </section>            
     </div>
 
     <div id="footer">
